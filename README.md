@@ -1,3 +1,4 @@
 # louiselize.github.io
 
-Resume Website! Follow the link -> louiselize.github.io
+Resume Website! Find it [here](louiselize.github.io)
+
